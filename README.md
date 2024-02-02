@@ -15,3 +15,6 @@ This web application displays COVID-19 data for Indian states, providing an over
 - View total confirmed, recovered, deceased, and tested COVID-19 cases for each Indian state.
 - Responsive design using Bootstrap for a better user experience on various devices.
   
+## Demo
+
+Check out the hosted version of the app on Netlify: [Covid-19 data App](https://netlify-covid-data.netlify.app)
